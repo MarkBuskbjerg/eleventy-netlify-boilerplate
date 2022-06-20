@@ -8,3 +8,6 @@ eleventyNavigation:
   key: Blog
   order: 2
 ---
+This is the content as you see it.
+
+![](/static/img/logo.png "This is an image")
